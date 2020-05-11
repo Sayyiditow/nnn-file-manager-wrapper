@@ -2,6 +2,7 @@
 A wrapper around https://github.com/jarun/nnn to make it start with key bindings and allow it to be used as default file manager, while still allowing PLUGINS.
 
 Install nnn using your package managers or directly from: https://github.com/jarun/nnn
+
 Install https://github.com/mwh/dragon to allow drag and drop
 
 - Clone this script with the other plugins
