@@ -7,7 +7,7 @@ Install https://github.com/mwh/dragon to allow drag and drop
 
 - Clone this script with the other plugins
 - git clone https://github.com/Sayyiditow/nnn-file-manager-wrapper.git
-- cd nnn-file-manager-wrapper
+- cd nnn-wrapper
 - chmod +x *
 - make a link: 
 - sudo ln -s /bin/nnnfm nnnfm
