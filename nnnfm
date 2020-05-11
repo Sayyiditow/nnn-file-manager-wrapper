@@ -1,0 +1,3 @@
+#!/bin/sh
+export NNN_PLUG='d:-_dragon --and-exit $nnn*;x:_chmod +x $nnn*;i:-_imgur-upload $nnn*;z:_zip_this_file $nnn*;u:_unzip $nnn*;s:-_sh $nnn*'
+st nnn -Adx $1 &
